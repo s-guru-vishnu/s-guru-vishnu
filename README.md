@@ -20,7 +20,7 @@ Aspiring Data Scientist
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Guru_Vishnu_2006?theme=dark&font=Marcellus&ext=contest)
 
-[![Guru Vishnu's github activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s-guru-vishnu&bg_color=000000&color=ffffff&line=51f065&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Guru Vishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s-guru-vishnu&bg_color=000000&color=ffffff&line=51f065&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 s-guru-vishnu/s-guru-vishnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
