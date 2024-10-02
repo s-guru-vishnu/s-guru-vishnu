@@ -11,6 +11,8 @@ Aspiring Data Scientist
 - 😄 Pronouns: **Techie**
 - ⚡ Fun fact: I can write code and cook a mean healthy meal all in the same day!
 
+### My Certify in
+- [Hackerrank Python Basic Certificate](https://www.hackerrank.com/certificates/iframe/5d8e6d5d8491)
 
 ### I Code in
 <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="50" height="50" src="https://img.icons8.com/clouds/100/r--v2.png" alt="r--v2"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
