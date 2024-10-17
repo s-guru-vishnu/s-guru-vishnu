@@ -5,7 +5,7 @@
 Aspiring Data Scientist
 - 🔭Here's my [Portfolio](https://guruvishnu.my.canva.site/copywriter-resume-website-in-navy-orange-white-friendly-rounded-style)
 - 👀 I’m interested in **Data Science**
-- 🌱 I’m currently learning **B.Tech AIDS in KIT-CBE**
+- 🌱 I’m currently Doing **B.Tech AIDS in KIT-CBE**
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guruvishnu2006/) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/gru_gm) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gru.gm/?hl=en)
 - 😄 Pronouns: **Techie**
