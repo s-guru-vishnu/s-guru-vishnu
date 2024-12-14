@@ -17,6 +17,9 @@ Aspiring Data Scientist
 ### I Code in
 <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="50" height="50" src="https://img.icons8.com/clouds/100/r--v2.png" alt="r--v2"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
 
+### I Practice in
+[<img width="50" height= "50" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">].(https://leetcode.com/u/Guru_Vishnu_2006) 
+
 ### IDE and Tools I Use
 <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>  <img width="50" height="50" src="https://img.icons8.com/doodle/48/pycharm.png" alt="pycharm"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>  <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo.png" alt="external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo"/>
 
