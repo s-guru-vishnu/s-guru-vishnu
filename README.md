@@ -14,6 +14,7 @@ Aspiring Data Scientist
 ### My Certify in
 - [Hackerrank Python Basic Certificate](https://www.hackerrank.com/certificates/iframe/5d8e6d5d8491)
 - [Hackerrank Problem Solving Basic Certificate](https://www.hackerrank.com/certificates/iframe/9744d2a3a801)
+- [LeetCode Introduction to Pandas Badge](https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif)
 
 ### I Code in
 <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="50" height="50" src="https://img.icons8.com/clouds/100/r--v2.png" alt="r--v2"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
