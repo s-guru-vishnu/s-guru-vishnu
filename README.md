@@ -25,7 +25,7 @@ Aspiring Data Scientist
 ### IDE and Tools I Use
 <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>  <img width="50" height="50" src="https://img.icons8.com/doodle/48/pycharm.png" alt="pycharm"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>  <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo.png" alt="external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo"/>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Guru_Vishnu_2006?theme=dark&font=Marcellus&ext=contest)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kit28ada052?theme=dark&font=Marcellus&ext=contest)
 
 [![Guru Vishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s-guru-vishnu&bg_color=000000&color=ffffff&line=51f065&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
