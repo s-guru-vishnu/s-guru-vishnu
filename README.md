@@ -3,7 +3,6 @@
 # **👋 Hi, I’m S Guru Vishnu**
 
 Aspiring Data Scientist
-- 🔭Here's my [Portfolio](https://guruvishnu.my.canva.site/copywriter-resume-website-in-navy-orange-white-friendly-rounded-style)
 - 👀 I’m interested in **Data Science**
 - 🌱 I’m currently Doing **B.Tech AIDS in KIT-CBE**
 - 📫 How to reach me :
