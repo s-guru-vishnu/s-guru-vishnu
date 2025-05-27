@@ -6,14 +6,9 @@ Aspiring Data Scientist
 - 👀 I’m interested in **Data Science**
 - 🌱 I’m currently Doing **B.Tech AIDS in KIT-CBE**
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guruvishnu2006/) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/gru_gm) 
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guruvishnu2006/) 
 - 😄 Pronouns: **Techie**
 - ⚡ Fun fact: I can write code and cook a mean healthy meal all in the same day!
-
-### My Certify in
-- [Hackerrank Python Basic Certificate](https://www.hackerrank.com/certificates/iframe/5d8e6d5d8491)
-- [Hackerrank Problem Solving Basic Certificate](https://www.hackerrank.com/certificates/iframe/9744d2a3a801)
-- [LeetCode Introduction to Pandas Badge](https://leetcode.com/u/Guru_Vishnu_2006/)
 
 ### I Code in
 <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="50" height="50" src="https://img.icons8.com/clouds/100/r--v2.png" alt="r--v2"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
