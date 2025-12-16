@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **S Guru Vishnu**
 
-🎓 **AI & Data Science Undergraduate | Aspiring Software Engineer**
+🎓 **AI & DS Undergraduate | Aspiring Software Engineer**
 
 - 💡 Passionate about **software development and problem-solving**
 - 🎓 Currently pursuing **B.Tech in AI & Data Science** at **KIT – Coimbatore**
