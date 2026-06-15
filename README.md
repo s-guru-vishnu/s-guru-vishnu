@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm **S Guru Vishnu**
 
-🎓 **AI & DS Undergraduate | Aspiring Software Engineer**
+**Aspiring Software Engineer | 1500+ Problems · 90+ Contests | Hackathon Winner | Python · MERN Stack · DSA**
 
-- 💡 Passionate about **software development and problem-solving**
+- 💡 Passionate about **Software Development & Problem-Solving**
 - 🎓 Currently pursuing **B.Tech in AI & Data Science** at **KIT – Coimbatore**
 - 🚀 Actively learning and building real-world tech projects
 - 💬 Feel free to ask me about **coding, AI, and software engineering**
@@ -20,7 +20,7 @@
 
 ## 💻 Programming & Tech
 
-<img width="50" src="https://img.icons8.com/color/48/python--v1.png"/><img width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/><img width="50" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/><img width="50" src="https://img.icons8.com/color/48/c-programming.png"/><img width="50" src="https://img.icons8.com/color/48/html-5--v1.png"/><img width="50" src="https://img.icons8.com/color/48/css3.png"/><img width="50" src="https://img.icons8.com/color/48/javascript--v1.png"/>
+<img width="50" src="https://img.icons8.com/color/48/python--v1.png"/> <img width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> <img width="50" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/> <img width="50" src="https://img.icons8.com/color/48/c-programming.png"/> <img width="50" src="https://img.icons8.com/color/48/react-native.png"/> <img width="50" src="https://img.icons8.com/color/48/nodejs.png"/> <img width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
 
 ---
 
