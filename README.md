@@ -20,13 +20,7 @@
 
 ## 💻 Programming & Tech
 
-<img width="50" src="https://img.icons8.com/color/48/python--v1.png"/> <img width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> <img width="50" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/> <img width="50" src="https://img.icons8.com/color/48/c-programming.png"/> <img width="50" src="https://img.icons8.com/color/48/react-native.png"/> <img width="50" src="https://img.icons8.com/color/48/nodejs.png"/> <img width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
-
----
-
-## 🛠️ IDEs & Tools
-
-<img width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/><img width="50" src="https://img.icons8.com/doodle/48/pycharm.png"/><img width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-color-tal-revivo.png"/>
+<img width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> <img width="50" src="https://img.icons8.com/color/48/python--v1.png"/> <img width="50" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/> <img width="50" src="https://img.icons8.com/color/48/c-programming.png"/> <img width="50" src="https://img.icons8.com/color/48/react-native.png"/> <img width="50" src="https://img.icons8.com/color/48/nodejs.png"/> <img width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
 
 ---
 
