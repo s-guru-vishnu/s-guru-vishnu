@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **S Guru Vishnu**
 
-**Aspiring Software Engineer | 1500+ Problems · 90+ Contests | Hackathon Winner | Python · MERN Stack · DSA**
+**Aspiring Software Engineer | 1500+ Problems · 90+ Contests | Hackathon Winner | Java · Python · Full Stack · DSA · AWS**
 
 - 💡 Passionate about **Software Development & Problem-Solving**
 - 🎓 Currently pursuing **B.Tech in AI & Data Science** at **KIT – Coimbatore**
