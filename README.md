@@ -134,8 +134,8 @@ AI-driven logistics platform to streamline regional delivery operations with rea
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=s-guru-vishnu&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=0076ff&text_color=FFFFFF&icon_color=0076ff&ring_color=0076ff&border_color=0076ff" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-guru-vishnu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0076ff&text_color=FFFFFF&border_color=00D9FF" alt="Top Languages" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=s-guru-vishnu&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=0076ff&text_color=FFFFFF&icon_color=0076ff&ring_color=0076ff&border_color=0076ff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-guru-vishnu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0076ff&text_color=FFFFFF&border_color=00D9FF" alt="Top Languages" /> -->
 
 </div>
 
