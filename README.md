@@ -130,30 +130,8 @@ AI-driven logistics platform to streamline regional delivery operations with rea
 </tr>
 </table>
 
-## GitHub Stats
-
-<div align="center">
-
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=s-guru-vishnu&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=0076ff&text_color=FFFFFF&icon_color=0076ff&ring_color=0076ff&border_color=0076ff" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-guru-vishnu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0076ff&text_color=FFFFFF&border_color=00D9FF" alt="Top Languages" /> -->
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s-guru-vishnu&theme=dark&hide_border=true&background=0D1117&stroke=0076ff&ring=ffffff&fire=0076ff&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0076ff&sideLabels=0076ff&dates=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=s-guru-vishnu&theme=react-dark&hide_border=true&bg_color=0D1117&color=ffffff&line=0076ff&point=FFFFFF&area=true&area_color=0076ff&title_color=ffffff" alt="Activity Graph" />
-
-</div>
-
 ---
 
-<br>
 
 ## Let's Connect!
 
