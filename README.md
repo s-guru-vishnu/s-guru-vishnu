@@ -46,14 +46,15 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Firebase-FF6C37?style=flat&logo=firebase&logoColor=white" alt="FireBase" />
-      <img src="https://img.shields.io/badge/Amazon_AWS-blue?logo=amazonaws" alt="AWS" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps & Tools</b></td>
+    <td align="center"><b>AWS & DevOps</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Amazon_AWS-blue?logo=amazonaws" alt="AWS" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/N8N-FF6C37?style=flat&logo=n8n&logoColor=white" alt="N8N" />
     </td>
   </tr>
